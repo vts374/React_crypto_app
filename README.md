@@ -27,25 +27,11 @@ This is a simple React application that fetches cryptocurrency details using the
 
     ```bash
     npm install
-    # or
-    yarn install
-    ```
-
-4. Create a `.env` file in the root directory and add your CoinGecko API key:
-
-    ```plaintext
-    REACT_APP_API_KEY=your-api-key
-    ```
-
-    You can obtain your API key by signing up on the [CoinGecko API website](https://www.coingecko.com/en/api).
 
 5. Start the development server:
 
     ```bash
     npm start
-    # or
-    yarn start
-    ```
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
